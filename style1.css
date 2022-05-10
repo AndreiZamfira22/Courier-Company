@@ -1,0 +1,44 @@
+body{
+	background: #009933;
+	color: #009933;
+	height: 100vh;
+}
+
+a {
+	float: middle;
+	background: #555;
+	padding: 10px 15px;
+	color: #2FE17A;
+	border-radius: 5px;
+	margin-right: 10px;
+	border: none;
+	text-decoration: none;
+}
+
+h1 {
+	text-align: center;
+	color: #2FE17A;
+}
+
+label {
+	color: #000000;
+	font-size: 18px;
+	padding: 10px;
+}
+
+h3 {
+	color: #2FE17A;
+}
+
+button {
+	float: right;
+	background: #555;
+	padding: 10px 15px;
+	color: #2FE17A;
+	border-radius: 5px;
+	margin-right: 10px;
+	border: none;
+}
+button:hover{
+	opacity: .7;
+}
